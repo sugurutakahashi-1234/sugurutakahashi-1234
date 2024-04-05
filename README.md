@@ -1,16 +1,14 @@
-### Hi there 👋
+## Profile
 
-<!--
-**suguruTakahashi-1234/suguruTakahashi-1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=suguruTakahashi-1234&show_icons=true)
 
-Here are some ideas to get you started:
+![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suguruTakahashi-1234)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Trophy](https://github-profile-trophy.vercel.app/?username=suguruTakahashi-1234)
+
+## Contact
+
+[![X URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fikuraikuraaaaaa)](https://twitter.com/ikuraikuraaaaaa)
+[![Qiita](https://img.shields.io/badge/Qiita-white?logo=qiita)](https://qiita.com/sugurutakahashi12345)
+[![Zenn](https://img.shields.io/badge/Zenn-white?logo=zenn)](https://zenn.dev/ikuraikura)
+[![Wantedly](https://img.shields.io/badge/Wantedly-white?logo=wantedly)](https://www.wantedly.com/id/suguru_takahashi_m)
