@@ -1,3 +1,11 @@
+## Featured Repositories
+
+[![skillsheet](https://github-readme-stats.vercel.app/api/pin/?username=suguruTakahashi-1234&repo=skillsheet)](https://github.com/suguruTakahashi-1234/skillsheet)
+
+[![framework-independent-architecture](https://github-readme-stats.vercel.app/api/pin/?username=suguruTakahashi-1234&repo=framework-independent-architecture)](https://github.com/suguruTakahashi-1234/framework-independent-architecture)
+
+[![fia-practical-sample](https://github-readme-stats.vercel.app/api/pin/?username=suguruTakahashi-1234&repo=fia-practical-sample)](https://github.com/suguruTakahashi-1234/fia-practical-sample)
+
 ## Profile
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=suguruTakahashi-1234&show_icons=true)
