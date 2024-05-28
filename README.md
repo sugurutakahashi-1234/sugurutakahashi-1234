@@ -3,6 +3,7 @@
 I'm an iOS engineer. Nice to meet you!
 
 ## 💻 Tech Stacks:
+
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white)
 
@@ -26,9 +27,11 @@ I'm an iOS engineer. Nice to meet you!
 
 ## 🌟 Featured Repositories:
 
-[![skillsheet](https://github-readme-stats.vercel.app/api/pin/?username=suguruTakahashi-1234&repo=skillsheet)](https://github.com/suguruTakahashi-1234/skillsheet)
-[![framework-independent-architecture](https://github-readme-stats.vercel.app/api/pin/?username=suguruTakahashi-1234&repo=framework-independent-architecture)](https://github.com/suguruTakahashi-1234/framework-independent-architecture)
-[![fia-practical-sample](https://github-readme-stats.vercel.app/api/pin/?username=suguruTakahashi-1234&repo=fia-practical-sample)](https://github.com/suguruTakahashi-1234/fia-practical-sample)
+[![skillsheet](https://github-readme-stats.vercel.app/api/pin/?username=suguruTakahashi-1234&repo=skillsheet&theme=github)](https://github.com/suguruTakahashi-1234/skillsheet)
+
+[![framework-independent-architecture](https://github-readme-stats.vercel.app/api/pin/?username=suguruTakahashi-1234&repo=framework-independent-architecture&theme=github)](https://github.com/suguruTakahashi-1234/framework-independent-architecture)
+
+[![fia-practical-sample](https://github-readme-stats.vercel.app/api/pin/?username=suguruTakahashi-1234&repo=fia-practical-sample&theme=github)](https://github.com/suguruTakahashi-1234/fia-practical-sample)
 
 ---
 
