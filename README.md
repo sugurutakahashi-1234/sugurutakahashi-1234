@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-I'm an iOS engineer. Nice to meet you!
+I'm an iOS engineer.
 
 ## 💻 Tech Stacks:
 
@@ -16,10 +16,10 @@ I'm an iOS engineer. Nice to meet you!
 
 ## 📊 GitHub Stats:
 
+<img alt="Top Langs" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=suguruTakahashi-1234&layout=compact&show_icons=true&theme=github" /><br/>
+<img alt="github stats" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=suguruTakahashi-1234&theme=github&show_icons=ture&count_private=true" /><br/>
 <img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suguruTakahashi-1234&theme=github" /><br/>
 <img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-readme-streak-stats.herokuapp.com/?user=suguruTakahashi-1234&theme=github&hide_border=false" /><br/>
-<img alt="Top Langs" width="44.5%" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=suguruTakahashi-1234&layout=compact&show_icons=true&theme=github" />
-<img alt="github stats" width="53.3%" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=suguruTakahashi-1234&theme=github&show_icons=ture&count_private=true" />
 
 ## 🏆 GitHub Trophies:
 
