@@ -1,11 +1,3 @@
-## 💫 About Me:
-
-I'm an iOS engineer.
-
-## 💻 Tech Stacks:
-
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white)
 
 ## 🫱‍🫲 Contacts:
 
