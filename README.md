@@ -1,5 +1,5 @@
 
-## Skills Sheet
+## 🗒️ Skills Sheet
 
 [![skillsheet](https://github-readme-stats.vercel.app/api/pin/?username=suguruTakahashi-1234&repo=skillsheet&theme=github)](https://github.com/suguruTakahashi-1234/skillsheet)
 
