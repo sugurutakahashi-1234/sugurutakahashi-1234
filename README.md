@@ -3,6 +3,13 @@
 
 [![skillsheet](https://github-readme-stats.vercel.app/api/pin/?username=suguruTakahashi-1234&repo=skillsheet&theme=github)](https://github.com/suguruTakahashi-1234/skillsheet)
 
+## 🧰 OSS
+
+[![ai-chat-md-export](https://github-readme-stats.vercel.app/api/pin/?username=sugurutakahashi-1234&repo=ai-chat-md-export&theme=github)](https://github.com/sugurutakahashi-1234/ai-chat-md-export)
+[![mermaid-markdown-wrap](https://github-readme-stats.vercel.app/api/pin/?username=sugurutakahashi-1234&repo=mermaid-markdown-wrap&theme=github)](https://github.com/sugurutakahashi-1234/mermaid-markdown-wrap)
+[![issue-linker](https://github-readme-stats.vercel.app/api/pin/?username=sugurutakahashi-1234&repo=issue-linker&theme=github)](https://github.com/sugurutakahashi-1234/issue-linker)
+[![readme-i18n-sentinel](https://github-readme-stats.vercel.app/api/pin/?username=sugurutakahashi-1234&repo=readme-i18n-sentinel&theme=github)](https://github.com/sugurutakahashi-1234/readme-i18n-sentinel)
+
 ## 🫱‍🫲 Contacts:
 
 [![X URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fikuraikuraaaaaa)](https://twitter.com/ikuraikuraaaaaa)
