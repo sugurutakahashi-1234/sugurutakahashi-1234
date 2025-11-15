@@ -25,6 +25,10 @@
 
 ![Stats](https://github-readme-stats-five-eta-91.vercel.app/api?username=sugurutakahashi-1234)
 
+## 🏆 Trophy
+
+![trophy](https://github-profile-trophy.vercel.app/?username=sugurutakahashi-1234&theme=onedark&no-frame=true&no-bg=true)
+
 ## 💻 Top Languages
 
 ![Top Langs](https://github-readme-stats-five-eta-91.vercel.app/api/top-langs/?username=sugurutakahashi-1234)
@@ -40,3 +44,7 @@
 ## 📈 Activity
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sugurutakahashi-1234&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+## 👀 Visitors
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=sugurutakahashi-1234&label=Visitors&countColor=%232ccce4)
