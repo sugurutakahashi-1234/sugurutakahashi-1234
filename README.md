@@ -4,7 +4,7 @@
 
 ## 🗒️ Skills Sheet
 
-- [skillsheet](https://github.com/sugurutakahashi-1234/skillsheet) - Suguru Takahashi's skills sheet (resume)
+![skillsheet](https://github-readme-stats-five-eta-91.vercel.app/api/pin/?username=sugurutakahashi-1234&repo=skillsheet&show_owner=true)
 
 ## 🛠️ Tech Stack
 
@@ -12,10 +12,10 @@
 
 ## 🧰 OSS Projects
 
-- [ai-chat-md-export](https://github.com/sugurutakahashi-1234/ai-chat-md-export) - Command-line tool for converting ChatGPT and Claude chat history to readable Markdown files
-- [mermaid-markdown-wrap](https://github.com/sugurutakahashi-1234/mermaid-markdown-wrap) - Wrap Mermaid diagram files in Markdown code blocks
-- [issue-linker](https://github.com/sugurutakahashi-1234/issue-linker) - CLI and GitHub Action that validates issue references
-- [readme-i18n-sentinel](https://github.com/sugurutakahashi-1234/readme-i18n-sentinel) - CLI tool that validates structural consistency between source and translated README files
+![ai-chat-md-export](https://github-readme-stats-five-eta-91.vercel.app/api/pin/?username=sugurutakahashi-1234&repo=ai-chat-md-export&show_owner=true)
+![mermaid-markdown-wrap](https://github-readme-stats-five-eta-91.vercel.app/api/pin/?username=sugurutakahashi-1234&repo=mermaid-markdown-wrap&show_owner=true)
+![issue-linker](https://github-readme-stats-five-eta-91.vercel.app/api/pin/?username=sugurutakahashi-1234&repo=issue-linker&show_owner=true)
+![readme-i18n-sentinel](https://github-readme-stats-five-eta-91.vercel.app/api/pin/?username=sugurutakahashi-1234&repo=readme-i18n-sentinel&show_owner=true)
 
 ## 📬 Contact
 
