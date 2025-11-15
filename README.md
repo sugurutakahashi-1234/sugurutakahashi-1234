@@ -11,19 +11,16 @@
 
 ## 🗒️ Skills Sheet
 
-[![skillsheet](https://github-readme-stats.vercel.app/api/pin/?username=sugurutakahashi-1234&repo=skillsheet&theme=github)](https://github.com/sugurutakahashi-1234/skillsheet)
+[skillsheet](https://github.com/sugurutakahashi-1234/skillsheet) - Suguru Takahashi's skills sheet (resume)
 
 ---
 
-## 🧰 OSS
+## 🧰 OSS Projects
 
-[![ai-chat-md-export](https://github-readme-stats.vercel.app/api/pin/?username=sugurutakahashi-1234&repo=ai-chat-md-export&theme=github)](https://github.com/sugurutakahashi-1234/ai-chat-md-export)
-
-[![mermaid-markdown-wrap](https://github-readme-stats.vercel.app/api/pin/?username=sugurutakahashi-1234&repo=mermaid-markdown-wrap&theme=github)](https://github.com/sugurutakahashi-1234/mermaid-markdown-wrap)
-
-[![issue-linker](https://github-readme-stats.vercel.app/api/pin/?username=sugurutakahashi-1234&repo=issue-linker&theme=github)](https://github.com/sugurutakahashi-1234/issue-linker)
-
-[![readme-i18n-sentinel](https://github-readme-stats.vercel.app/api/pin/?username=sugurutakahashi-1234&repo=readme-i18n-sentinel&theme=github)](https://github.com/sugurutakahashi-1234/readme-i18n-sentinel)
+- [ai-chat-md-export](https://github.com/sugurutakahashi-1234/ai-chat-md-export) - Command-line tool for converting ChatGPT and Claude chat history to readable Markdown files
+- [mermaid-markdown-wrap](https://github.com/sugurutakahashi-1234/mermaid-markdown-wrap) - Wrap Mermaid diagram files in Markdown code blocks
+- [issue-linker](https://github.com/sugurutakahashi-1234/issue-linker) - CLI and GitHub Action that validates issue references
+- [readme-i18n-sentinel](https://github.com/sugurutakahashi-1234/readme-i18n-sentinel) - CLI tool that validates structural consistency between source and translated README files
 
 ---
 
@@ -35,20 +32,6 @@
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sugurutakahashi-1234&layout=compact&theme=github)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=sugurutakahashi-1234&show_icons=true&count_private=true&theme=github)
-
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sugurutakahashi-1234&theme=github)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sugurutakahashi-1234&theme=github)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=sugurutakahashi-1234&theme=github&no-bg=true&no-frame=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=sugurutakahashi-1234&icon=0&color=0)](https://visitcount.itsvg.in)
