@@ -17,17 +17,19 @@
 - [issue-linker](https://github.com/sugurutakahashi-1234/issue-linker) - CLI and GitHub Action that validates issue references
 - [readme-i18n-sentinel](https://github.com/sugurutakahashi-1234/readme-i18n-sentinel) - CLI tool that validates structural consistency between source and translated README files
 
-## 📊 Summary
+## 📊 Stats
+
+![Stats](https://github-readme-stats-five-eta-91.vercel.app/api?username=sugurutakahashi-1234)
+
+## 💻 Top Languages
+
+![Top Langs](https://github-readme-stats-five-eta-91.vercel.app/api/top-langs/?username=sugurutakahashi-1234)
+
+## 📋 Summary
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sugurutakahashi-1234&theme=github)
 
-## 🧪 Test (Private Repos)
-
-![Stats](https://github-readme-stats-five-eta-91.vercel.app/api?username=sugurutakahashi-1234&show_icons=true&count_private=true&theme=github)
-
-![Top Langs](https://github-readme-stats-five-eta-91.vercel.app/api/top-langs/?username=sugurutakahashi-1234&layout=compact&theme=github)
-
-## 📊 Streak
+## 🔥 Streak
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sugurutakahashi-1234&theme=github)
 
