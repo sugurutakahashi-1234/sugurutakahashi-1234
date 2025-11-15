@@ -23,11 +23,11 @@
 
 ## 📊 Stats
 
-![Stats](https://github-readme-stats-five-eta-91.vercel.app/api?username=sugurutakahashi-1234)
+![Stats](https://github-readme-stats-five-eta-91.vercel.app/api?username=sugurutakahashi-1234&show_icons=true)
 
 ## 💻 Top Languages
 
-![Top Langs](https://github-readme-stats-five-eta-91.vercel.app/api/top-langs/?username=sugurutakahashi-1234)
+![Top Langs](https://github-readme-stats-five-eta-91.vercel.app/api/top-langs/?username=sugurutakahashi-1234&layout=compact)
 
 ## 📋 Summary
 
