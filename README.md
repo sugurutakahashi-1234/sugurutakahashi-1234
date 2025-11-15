@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Suguru%20Takahashi&fontSize=70)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&width=600&lines=iOS+Developer;React+Native+Engineer;Full+Stack+Engineer;System+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&width=600&lines=iOS+Developer;React+Native+Engineer;Full+Stack+Engineer)](https://git.io/typing-svg)
 
 ## 🗒️ Skills Sheet
 
