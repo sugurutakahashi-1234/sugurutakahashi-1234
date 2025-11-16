@@ -4,7 +4,7 @@
 
 ## 🗒️ Skills Sheet
 
-![skillsheet](https://github-readme-stats-five-eta-91.vercel.app/api/pin/?username=sugurutakahashi-1234&repo=skillsheet&show_owner=true)
+[![skillsheet](https://github-readme-stats-five-eta-91.vercel.app/api/pin/?username=sugurutakahashi-1234&repo=skillsheet&show_owner=true)](https://github.com/sugurutakahashi-1234/skillsheet)
 
 ## 🛠️ Tech Stack
 
@@ -12,10 +12,10 @@
 
 ## 🧰 OSS Projects
 
-![ai-chat-md-export](https://github-readme-stats-five-eta-91.vercel.app/api/pin/?username=sugurutakahashi-1234&repo=ai-chat-md-export&show_owner=true)
-![mermaid-markdown-wrap](https://github-readme-stats-five-eta-91.vercel.app/api/pin/?username=sugurutakahashi-1234&repo=mermaid-markdown-wrap&show_owner=true)
-![issue-linker](https://github-readme-stats-five-eta-91.vercel.app/api/pin/?username=sugurutakahashi-1234&repo=issue-linker&show_owner=true)
-![readme-i18n-sentinel](https://github-readme-stats-five-eta-91.vercel.app/api/pin/?username=sugurutakahashi-1234&repo=readme-i18n-sentinel&show_owner=true)
+[![ai-chat-md-export](https://github-readme-stats-five-eta-91.vercel.app/api/pin/?username=sugurutakahashi-1234&repo=ai-chat-md-export&show_owner=true)](https://github.com/sugurutakahashi-1234/ai-chat-md-export)
+[![mermaid-markdown-wrap](https://github-readme-stats-five-eta-91.vercel.app/api/pin/?username=sugurutakahashi-1234&repo=mermaid-markdown-wrap&show_owner=true)](https://github.com/sugurutakahashi-1234/mermaid-markdown-wrap)
+[![issue-linker](https://github-readme-stats-five-eta-91.vercel.app/api/pin/?username=sugurutakahashi-1234&repo=issue-linker&show_owner=true)](https://github.com/sugurutakahashi-1234/issue-linker)
+[![readme-i18n-sentinel](https://github-readme-stats-five-eta-91.vercel.app/api/pin/?username=sugurutakahashi-1234&repo=readme-i18n-sentinel&show_owner=true)](https://github.com/sugurutakahashi-1234/readme-i18n-sentinel)
 
 ## 📬 Contact
 
