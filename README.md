@@ -31,11 +31,11 @@
 
 ## 📋 Summary
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sugurutakahashi-1234)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sugurutakahashi-1234&theme=github)
 
 ## 🔥 Streak
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sugurutakahashi-1234)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sugurutakahashi-1234&theme=github)
 
 ## 📈 Activity
 
