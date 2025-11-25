@@ -43,7 +43,7 @@
 
 ## 🏆 Trophy
 
-![trophy](https://github-profile-trophy.vercel.app/?username=sugurutakahashi-1234&theme=onedark&no-frame=true&no-bg=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=sugurutakahashi-1234)
 
 ## 👀 Visitors
 
