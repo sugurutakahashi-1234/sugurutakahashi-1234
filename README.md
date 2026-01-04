@@ -4,7 +4,7 @@
 
 ## 🗒️ Skills Sheet
 
-[![skillsheet](https://github-readme-stats-five-eta-91.vercel.app/api/pin/?username=sugurutakahashi-1234&repo=skillsheet&show_owner=true)](https://github.com/sugurutakahashi-1234/skillsheet)
+[![skills-sheet](https://github-readme-stats-five-eta-91.vercel.app/api/pin/?username=sugurutakahashi-1234&repo=skillsheet&show_owner=true)](https://github.com/sugurutakahashi-1234/skills-sheet)
 
 ## 🛠️ Tech Stack
 
