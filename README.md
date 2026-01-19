@@ -33,10 +33,6 @@
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sugurutakahashi-1234&theme=github)
 
-## 🔥 Streak
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sugurutakahashi-1234&theme=github)
-
 ## 📈 Activity
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sugurutakahashi-1234&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
