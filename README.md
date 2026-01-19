@@ -17,10 +17,6 @@
 [![issue-linker](https://github-readme-stats-five-eta-91.vercel.app/api/pin/?username=sugurutakahashi-1234&repo=issue-linker&show_owner=true)](https://github.com/sugurutakahashi-1234/issue-linker)
 [![readme-i18n-sentinel](https://github-readme-stats-five-eta-91.vercel.app/api/pin/?username=sugurutakahashi-1234&repo=readme-i18n-sentinel&show_owner=true)](https://github.com/sugurutakahashi-1234/readme-i18n-sentinel)
 
-## 📬 Contact
-
-[![X](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fikuraikuraaaaaa)](https://twitter.com/ikuraikuraaaaaa)
-
 ## 📊 Stats
 
 ![Stats](https://github-readme-stats-five-eta-91.vercel.app/api?username=sugurutakahashi-1234&show_icons=true)
@@ -37,6 +33,10 @@
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sugurutakahashi-1234&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
+## 🔥 Streak
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sugurutakahashi-1234&theme=github)
+
 ## 🏆 Trophy
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sugurutakahashi-1234)
@@ -44,3 +44,8 @@
 ## 👀 Visitors
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=sugurutakahashi-1234&label=Visitors&countColor=%232ccce4)
+
+## 📬 Contact
+
+[![X](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fikuraikuraaaaaa)](https://twitter.com/ikuraikuraaaaaa)
+
