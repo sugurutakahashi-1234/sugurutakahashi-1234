@@ -6,7 +6,7 @@
 
 ## 🤖 AI
 
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=claude&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-000000) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white) ![Kimi K2](https://img.shields.io/badge/Kimi_K2-1C1C1C?logo=kimi&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=claude&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-000000) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white) ![Kimi](https://img.shields.io/badge/Kimi-1C1C1C?logo=kimi&logoColor=white)
 
 ## 🛠️ Tech Stack
 
@@ -44,7 +44,7 @@
 
 **Code Quality / CI/CD**
 
-![Biome](https://img.shields.io/badge/Biome-60A5FA?logo=biome&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black) ![Renovate](https://img.shields.io/badge/Renovate-1A1F6C?logo=renovate&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) ![Xcode Cloud](https://img.shields.io/badge/Xcode_Cloud-147EFB?logo=xcode&logoColor=white) ![Bitrise](https://img.shields.io/badge/Bitrise-683D87?logo=bitrise&logoColor=white)
+![Biome](https://img.shields.io/badge/Biome-60A5FA?logo=biome&logoColor=white) ![oxlint](https://img.shields.io/badge/oxlint-000000?logo=oxc&logoColor=white) ![oxfmt](https://img.shields.io/badge/oxfmt-000000?logo=oxc&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black) ![knip](https://img.shields.io/badge/knip-F56E0F?logo=knip&logoColor=white) ![lefthook](https://img.shields.io/badge/lefthook-FF1E1E?logo=lefthook&logoColor=white) ![Renovate](https://img.shields.io/badge/Renovate-1A1F6C?logo=renovate&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) ![Xcode Cloud](https://img.shields.io/badge/Xcode_Cloud-147EFB?logo=xcode&logoColor=white) ![Bitrise](https://img.shields.io/badge/Bitrise-683D87?logo=bitrise&logoColor=white)
 
 ## 🧰 OSS Projects
 
