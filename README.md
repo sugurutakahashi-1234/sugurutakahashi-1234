@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&width=600&lines=AI+Consultant+%2F+FDE;CTO+at+ZENSHIN;Full+Stack+Engineer)](https://git.io/typing-svg)
 
-[![Skills Sheet](https://img.shields.io/badge/Skills_Sheet-Resume-2F81F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sugurutakahashi-1234/skills-sheet)
+- [skills-sheet](https://github.com/sugurutakahashi-1234/skills-sheet) [![Skills Sheet](https://img.shields.io/badge/SkillsSheet-resume-55C500?logo=SkillsSheet&logoColor=white)](https://github.com/sugurutakahashi-1234/skills-sheet)
 
 ## 🤖 AI
 
