@@ -70,6 +70,11 @@
 - [issue-linker](https://github.com/sugurutakahashi-1234/issue-linker) ![npm downloads](https://img.shields.io/npm/dm/issue-linker?logo=npm&color=CB3837)
 - [readme-i18n-sentinel](https://github.com/sugurutakahashi-1234/readme-i18n-sentinel) ![npm downloads](https://img.shields.io/npm/dm/readme-i18n-sentinel?logo=npm&color=CB3837)
 
+## 📊 GitHub Stats
+
+<a href="https://github.com/sugurutakahashi-1234"><img src="./profile/stats.svg" height="165" alt="GitHub Stats"></a>
+<a href="https://github.com/sugurutakahashi-1234"><img src="./profile/top-langs.svg" height="165" alt="Top Languages"></a>
+
 ## 🔗 Links
 
 [![X](https://img.shields.io/badge/X-%40suguru__takaha4-000000?logo=x&logoColor=white)](https://x.com/suguru_takaha4)
