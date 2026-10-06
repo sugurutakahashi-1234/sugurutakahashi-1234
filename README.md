@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:1E3A8A&height=200&section=header&text=Suguru%20Takahashi&fontSize=70&fontColor=ffffff)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&width=600&lines=Startup+CTO;LLM+%C2%B7+RAG+%C2%B7+MCP+Systems;Full+Stack+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&width=600&lines=CTO+at+ZENSHIN+Inc.;LLM+%C2%B7+RAG+%C2%B7+MCP+Systems;0%E2%86%921+Product+Builder)](https://git.io/typing-svg)
 
 ## 📃 Resume (Skills Sheet)
 
