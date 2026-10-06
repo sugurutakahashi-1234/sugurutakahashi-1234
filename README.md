@@ -9,10 +9,10 @@
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/sugurutakahashi-1234"><img src="./profile/stats.svg" height="165" alt="GitHub Stats"></a>
-<a href="https://github.com/sugurutakahashi-1234"><img src="./profile/top-langs.svg" height="165" alt="Top Languages"></a>
+<a href="https://github.com/sugurutakahashi-1234"><img src="./profile/stats.svg" alt="GitHub Stats"></a>
 
-<a href="https://github.com/sugurutakahashi-1234"><img src="./profile/streak.svg" alt="GitHub Streak"></a>
+<a href="https://github.com/sugurutakahashi-1234"><img src="./profile/streak.svg" height="180" alt="GitHub Streak"></a>
+<a href="https://github.com/sugurutakahashi-1234"><img src="./profile/top-langs.svg" height="180" alt="Top Languages"></a>
 
 <a href="https://github.com/sugurutakahashi-1234"><img src="./profile/trophy.svg" alt="GitHub Trophies"></a>
 
