@@ -81,6 +81,7 @@
 
 ## 🔗 Links
 
+[![LAPRAS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Flapras.com%2Fpublic%2F3WO0C3D.json&query=%24.e_score&label=LAPRAS&color=1E88E5)](https://lapras.com/public/3WO0C3D)
 [![X](https://img.shields.io/badge/X-%40suguru__takaha4-000000?logo=x&logoColor=white)](https://x.com/suguru_takaha4)
 [![Website](https://img.shields.io/badge/Website-zenshin--inc.co.jp-2F81F7?logo=googlechrome&logoColor=white)](https://www.zenshin-inc.co.jp/)
 [![Zenn](https://img.shields.io/badge/Zenn-ikuraikura-3EA8FF?logo=zenn&logoColor=white)](https://zenn.dev/ikuraikura)
