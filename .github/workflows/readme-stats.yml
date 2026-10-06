@@ -1,6 +1,8 @@
-# プロフィール README の GitHub Stats カードを日次で再生成し、SVG をこのリポジトリにコミットする
-# Action の中身（action.yml / action.js）は v2 時点で確認済み: core パッケージを呼んで SVG を書くだけ
-# https://github.com/stats-organization/github-readme-stats-action
+# プロフィール README のカード（Stats・Top Languages・Streak・Trophy）を日次で再生成し、SVG をこのリポジトリにコミットする
+# 各 Action の中身は参照 SHA 時点で確認済み: いずれも GitHub API を叩いて SVG を書くだけで、外部送信はしない
+# - https://github.com/stats-organization/github-readme-stats-action
+# - https://github.com/DenverCoder1/github-readme-streak-stats
+# - https://github.com/ryo-ma/github-profile-trophy
 name: Update README stats
 
 on:
@@ -30,6 +32,21 @@ jobs:
           card: top-langs
           options: username=sugurutakahashi-1234&layout=compact&langs_count=6&hide_border=true&title_color=2F81F7
           path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak card
+        uses: DenverCoder1/github-readme-streak-stats@d855de1a23fe45bdda5ffbc28a6d4b80b0f107e1 # v1
+        with:
+          options: user=sugurutakahashi-1234&hide_border=true&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&disable_animations=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate trophy card
+        uses: ryo-ma/github-profile-trophy@e3c89df995e92e67cdd4b2acaab9d974583dc1f7 # master 2026-07-25（Action はタグ未発行）
+        with:
+          username: sugurutakahashi-1234
+          output_path: profile/trophy.svg
+          theme: flat
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards

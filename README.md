@@ -7,6 +7,15 @@
 - [Markdown (GitHub)](https://github.com/sugurutakahashi-1234/skills-sheet)
 - [Web](https://sugurutakahashi-1234.github.io/skills-sheet/)
 
+## 📊 GitHub Stats
+
+<a href="https://github.com/sugurutakahashi-1234"><img src="./profile/stats.svg" height="165" alt="GitHub Stats"></a>
+<a href="https://github.com/sugurutakahashi-1234"><img src="./profile/top-langs.svg" height="165" alt="Top Languages"></a>
+
+<a href="https://github.com/sugurutakahashi-1234"><img src="./profile/streak.svg" alt="GitHub Streak"></a>
+
+<a href="https://github.com/sugurutakahashi-1234"><img src="./profile/trophy.svg" alt="GitHub Trophies"></a>
+
 ## 🤖 AI
 
 **AI Systems**
@@ -69,11 +78,6 @@
 - [mermaid-markdown-wrap](https://github.com/sugurutakahashi-1234/mermaid-markdown-wrap) ![npm downloads](https://img.shields.io/npm/dm/mermaid-markdown-wrap?logo=npm&color=CB3837)
 - [issue-linker](https://github.com/sugurutakahashi-1234/issue-linker) ![npm downloads](https://img.shields.io/npm/dm/issue-linker?logo=npm&color=CB3837)
 - [readme-i18n-sentinel](https://github.com/sugurutakahashi-1234/readme-i18n-sentinel) ![npm downloads](https://img.shields.io/npm/dm/readme-i18n-sentinel?logo=npm&color=CB3837)
-
-## 📊 GitHub Stats
-
-<a href="https://github.com/sugurutakahashi-1234"><img src="./profile/stats.svg" height="165" alt="GitHub Stats"></a>
-<a href="https://github.com/sugurutakahashi-1234"><img src="./profile/top-langs.svg" height="165" alt="Top Languages"></a>
 
 ## 🔗 Links
 
