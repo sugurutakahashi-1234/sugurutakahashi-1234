@@ -24,7 +24,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
         with:
           card: stats
-          options: username=sugurutakahashi-1234&show_icons=true&show=reviews,prs_merged_percentage,all_time_contribs&include_all_commits=true&hide_border=true&title_color=2F81F7&icon_color=2F81F7&disable_animations=true
+          options: username=sugurutakahashi-1234&show_icons=true&show=prs_merged_percentage,all_time_contribs&include_all_commits=true&hide_border=true&title_color=2F81F7&icon_color=2F81F7&disable_animations=true
           path: profile/stats.svg
           token: ${{ secrets.README_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
