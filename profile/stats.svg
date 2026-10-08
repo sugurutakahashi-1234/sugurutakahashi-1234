@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Suguru Takahashi&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 75, Total Commits  : 8310, Total PRs: 479, Merged PRs Percentage: 96.24, Total Issues: 863, Contributed to (last year): 22, Contributed to (all time): 25</desc>
+        <desc id="descId">Total Stars Earned: 75, Total Commits  : 8365, Total PRs: 479, Merged PRs Percentage: 96.24, Total Issues: 874, Contributed to (last year): 23, Contributed to (all time): 26</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 49.43236556288623;
+        stroke-dashoffset: 49.427428536026994;
       }
     }
   
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >8.3k</text>
+      >8.4k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >863</text>
+      >874</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -244,7 +244,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >22</text>
+      >23</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
@@ -259,7 +259,7 @@
         x="224.01"
         y="12.5"
         data-testid="all_time_contribs"
-      >25</text>
+      >26</text>
     </g>
   </g>
     </svg>
