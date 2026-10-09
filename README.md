@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&width=600&lines=CTO+at+ZENSHIN+Inc.;LLM+%C2%B7+RAG+%C2%B7+MCP+Systems;0%E2%86%921+Product+Builder)](https://git.io/typing-svg)
 
+https://github.com/user-attachments/assets/e583588d-0f23-475c-a49a-fe53c9bf16ea
+
 ## 📃 Resume (Skills Sheet)
 
 - [Markdown (GitHub)](https://github.com/sugurutakahashi-1234/skills-sheet)
