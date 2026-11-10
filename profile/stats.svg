@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Suguru Takahashi&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 75, Total Commits  : 10367, Total PRs: 484, Merged PRs Percentage: 96.07, Total Issues: 904, Contributed to (last year): 26, Contributed to (all time): 29</desc>
+        <desc id="descId">Total Stars Earned: 75, Total Commits  : 10378, Total PRs: 488, Merged PRs Percentage: 96.11, Total Issues: 905, Contributed to (last year): 26, Contributed to (all time): 29</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 48.55660166443727;
+        stroke-dashoffset: 48.55222894266875;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >484</text>
+      >488</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >96.07 %</text>
+      >96.11 %</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >904</text>
+      >905</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
