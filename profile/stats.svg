@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Suguru Takahashi&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 75, Total Commits  : 10708, Total PRs: 436, Merged PRs Percentage: 95.87, Total Issues: 895, Contributed to (last year): 25, Contributed to (all time): 28</desc>
+        <desc id="descId">Total Stars Earned: 75, Total Commits  : 10730, Total PRs: 436, Merged PRs Percentage: 95.87, Total Issues: 895, Contributed to (last year): 25, Contributed to (all time): 28</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 48.08333354434531;
+        stroke-dashoffset: 48.082954578181415;
       }
     }
   
