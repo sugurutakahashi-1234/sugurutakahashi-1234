@@ -1,0 +1,8 @@
+# commit の前に動く検査（lefthook）。全部のリポジトリで、秘密の検知と commit の書き方をそろえる
+
+pre-commit:
+  jobs:
+    # 秘密の混入を commit の前に止める。個人のアカウントの非公開リポジトリでは GitHub の push protection が使えず、ここが唯一の守り。
+    # --redact を外すと、見つけた値そのものが端末と記録に残る
+    - name: gitleaks
+      run: gitleaks git --staged --redact --no-banner
